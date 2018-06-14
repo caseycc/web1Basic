@@ -34,6 +34,9 @@ body {
 	background: thistle;
 }
 
+h1{
+	color:lightblue;
+}
 /*	Generally, you will only want one container element in
 	the document, wrapping around the main content area. 
 	If you have more than one container, you are probably doing
